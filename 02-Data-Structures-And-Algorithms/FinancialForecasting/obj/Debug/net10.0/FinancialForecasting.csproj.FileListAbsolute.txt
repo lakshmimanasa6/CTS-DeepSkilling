@@ -1,0 +1,15 @@
+/Users/manasa/Desktop/CTS-DEEPSKILLING/02-Data-Structures-And-Algorithms/FinancialForecasting/bin/Debug/net10.0/FinancialForecasting
+/Users/manasa/Desktop/CTS-DEEPSKILLING/02-Data-Structures-And-Algorithms/FinancialForecasting/bin/Debug/net10.0/FinancialForecasting.deps.json
+/Users/manasa/Desktop/CTS-DEEPSKILLING/02-Data-Structures-And-Algorithms/FinancialForecasting/bin/Debug/net10.0/FinancialForecasting.runtimeconfig.json
+/Users/manasa/Desktop/CTS-DEEPSKILLING/02-Data-Structures-And-Algorithms/FinancialForecasting/bin/Debug/net10.0/FinancialForecasting.dll
+/Users/manasa/Desktop/CTS-DEEPSKILLING/02-Data-Structures-And-Algorithms/FinancialForecasting/bin/Debug/net10.0/FinancialForecasting.pdb
+/Users/manasa/Desktop/CTS-DEEPSKILLING/02-Data-Structures-And-Algorithms/FinancialForecasting/obj/Debug/net10.0/FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manasa/Desktop/CTS-DEEPSKILLING/02-Data-Structures-And-Algorithms/FinancialForecasting/obj/Debug/net10.0/FinancialForecasting.AssemblyInfoInputs.cache
+/Users/manasa/Desktop/CTS-DEEPSKILLING/02-Data-Structures-And-Algorithms/FinancialForecasting/obj/Debug/net10.0/FinancialForecasting.AssemblyInfo.cs
+/Users/manasa/Desktop/CTS-DEEPSKILLING/02-Data-Structures-And-Algorithms/FinancialForecasting/obj/Debug/net10.0/FinancialForecasting.csproj.CoreCompileInputs.cache
+/Users/manasa/Desktop/CTS-DEEPSKILLING/02-Data-Structures-And-Algorithms/FinancialForecasting/obj/Debug/net10.0/FinancialForecasting.sourcelink.json
+/Users/manasa/Desktop/CTS-DEEPSKILLING/02-Data-Structures-And-Algorithms/FinancialForecasting/obj/Debug/net10.0/FinancialForecasting.dll
+/Users/manasa/Desktop/CTS-DEEPSKILLING/02-Data-Structures-And-Algorithms/FinancialForecasting/obj/Debug/net10.0/refint/FinancialForecasting.dll
+/Users/manasa/Desktop/CTS-DEEPSKILLING/02-Data-Structures-And-Algorithms/FinancialForecasting/obj/Debug/net10.0/FinancialForecasting.pdb
+/Users/manasa/Desktop/CTS-DEEPSKILLING/02-Data-Structures-And-Algorithms/FinancialForecasting/obj/Debug/net10.0/FinancialForecasting.genruntimeconfig.cache
+/Users/manasa/Desktop/CTS-DEEPSKILLING/02-Data-Structures-And-Algorithms/FinancialForecasting/obj/Debug/net10.0/ref/FinancialForecasting.dll
