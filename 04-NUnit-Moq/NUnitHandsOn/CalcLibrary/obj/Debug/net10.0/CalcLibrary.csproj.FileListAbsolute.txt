@@ -1,0 +1,12 @@
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/NUnitHandsOn/CalcLibrary/bin/Debug/net10.0/CalcLibrary.deps.json
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/NUnitHandsOn/CalcLibrary/bin/Debug/net10.0/CalcLibrary.dll
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/NUnitHandsOn/CalcLibrary/bin/Debug/net10.0/CalcLibrary.pdb
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/NUnitHandsOn/CalcLibrary/obj/Debug/net10.0/CalcLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/NUnitHandsOn/CalcLibrary/obj/Debug/net10.0/CalcLibrary.AssemblyInfoInputs.cache
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/NUnitHandsOn/CalcLibrary/obj/Debug/net10.0/CalcLibrary.AssemblyInfo.cs
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/NUnitHandsOn/CalcLibrary/obj/Debug/net10.0/CalcLibrary.csproj.CoreCompileInputs.cache
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/NUnitHandsOn/CalcLibrary/obj/Debug/net10.0/CalcLibrary.sourcelink.json
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/NUnitHandsOn/CalcLibrary/obj/Debug/net10.0/CalcLibrary.dll
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/NUnitHandsOn/CalcLibrary/obj/Debug/net10.0/refint/CalcLibrary.dll
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/NUnitHandsOn/CalcLibrary/obj/Debug/net10.0/CalcLibrary.pdb
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/NUnitHandsOn/CalcLibrary/obj/Debug/net10.0/ref/CalcLibrary.dll
