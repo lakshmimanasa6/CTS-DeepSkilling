@@ -1,0 +1,12 @@
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/MoqHandsOn/CustomerCommLib/bin/Debug/net10.0/CustomerCommLib.deps.json
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/MoqHandsOn/CustomerCommLib/bin/Debug/net10.0/CustomerCommLib.dll
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/MoqHandsOn/CustomerCommLib/bin/Debug/net10.0/CustomerCommLib.pdb
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/MoqHandsOn/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/MoqHandsOn/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.AssemblyInfoInputs.cache
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/MoqHandsOn/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.AssemblyInfo.cs
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/MoqHandsOn/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.csproj.CoreCompileInputs.cache
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/MoqHandsOn/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.sourcelink.json
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/MoqHandsOn/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.dll
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/MoqHandsOn/CustomerCommLib/obj/Debug/net10.0/refint/CustomerCommLib.dll
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/MoqHandsOn/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.pdb
+/Users/manasa/Desktop/CTS-DEEPSKILLING/04-NUnit-Moq/MoqHandsOn/CustomerCommLib/obj/Debug/net10.0/ref/CustomerCommLib.dll
