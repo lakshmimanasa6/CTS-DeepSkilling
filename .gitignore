@@ -1,2 +1,11 @@
+# macOS
 .DS_Store
-.DS_Store
+
+# .NET build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
